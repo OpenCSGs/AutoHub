@@ -1,6 +1,3 @@
-
-
-<h1 align="center">AutoHub</h1>
 <div align="center">
 
 ![AutoHub logo](static/img/AutoHub.jpeg)
