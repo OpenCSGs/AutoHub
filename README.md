@@ -1,4 +1,11 @@
-# AutoHub
+<div align="center">
+
+![AutoHub logo](static/img/AutoHub.jpeg)
+
+</div>
+
+<h1 align="center">AutoHub</h1>
+
 AutoHub is your personal browser automation assistant
 
 Say goodbye to tedious web operations and welcome the use of AutoHub! Through intelligent conversation and automation technology, AutoHub provides you with a more efficient and smarter web browsing experience.
