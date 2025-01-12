@@ -47,7 +47,7 @@ If you prefer to install the local package or encounter issues with the Chrome W
 
 ### **Video Demonstration**
 
-<video src="https://github.com/OpenCSGs/AutoHub/issues/3#issue-2782330514" controls>
+<video src="https://github.com/user-attachments/assets/20529d94-cea3-48ae-8a38-0780f418c393" controls>
 Your browser does not support the video tag.
 </video>
 
