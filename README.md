@@ -12,6 +12,12 @@ ___
 
 **AutoHub** is a browser automation plugin designed to simplify users' web operations through intelligent conversation and automation technology. It is based on the latest advancements in large model technology and developed by OpenCSG. Whether it's automatically filling out forms, performing multi-page operations, or executing repetitive tasks, AutoHub provides efficient solutions to help users save time and effort. With an intuitive interface and powerful features, AutoHub makes browser operations easier and smarter, optimizing your web experience.
 
+## Video Demonstration
+
+<video src="https://github.com/user-attachments/assets/20529d94-cea3-48ae-8a38-0780f418c393" controls>
+Your browser does not support the video tag.
+</video>
+
 ## Getting Started
 
 AutoHub offers various methods to assist you. Let's start with the following methods:
@@ -44,12 +50,6 @@ If you prefer to install the local package or encounter issues with the Chrome W
        - Navigate to the directory where you extracted the AutoHub package and select it.
      - **Method 2: Drag and Drop the Zip File**
        - Directly drag and drop the downloaded `.zip` file onto the extensions page.
-
-### **Video Demonstration**
-
-<video src="https://github.com/user-attachments/assets/20529d94-cea3-48ae-8a38-0780f418c393" controls>
-Your browser does not support the video tag.
-</video>
 
 ### **Issue & FAQ**
 
