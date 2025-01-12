@@ -12,6 +12,8 @@ ___
 
 **AutoHub** is a browser automation plugin designed to simplify users' web operations through intelligent conversation and automation technology. It is based on the latest advancements in large model technology and developed by OpenCSG. Whether it's automatically filling out forms, performing multi-page operations, or executing repetitive tasks, AutoHub provides efficient solutions to help users save time and effort. With an intuitive interface and powerful features, AutoHub makes browser operations easier and smarter, optimizing your web experience.
 
+<video src="media/mainfeature.mp4" controls="controls" width="500" height="300"></video>
+
 ## Getting Started
 
 AutoHub offers various methods to assist you. Let's start with the following methods:
