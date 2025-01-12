@@ -15,6 +15,7 @@ ___
 ## Video Demonstration
 
 <video src="https://github.com/user-attachments/assets/20529d94-cea3-48ae-8a38-0780f418c393" controls>
+  <source src="https://github.com/user-attachments/assets/20529d94-cea3-48ae-8a38-0780f418c393" type="video/mp4">
   <img src="./static/img/videoframe_15996.png" alt="Video Frame" />
   Your browser does not support the video tag.
 </video>
