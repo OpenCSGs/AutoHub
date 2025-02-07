@@ -33,9 +33,7 @@ AutoHub offers various methods to assist you. Let's start with the following met
 If you prefer to install the local package or encounter issues with the Chrome Web Store, follow these steps:
 
 1. **Download the Plugin Package**
-   - Visit the [AutoHub GitHub repository releases]([https://github.com/OpenCSGs/AutoHub](https://github.com/OpenCSGs/AutoHub/releases)) and navigate to the releases section.
-   - Download the latest release package (usually a `autohub-*.zip
-` file).
+   - To obtain the latest version of the installation package, visit the [AutoHub GitHub latest release page](https://github.com/OpenCSGs/AutoHub/releases/latest) and download the `autohub-*.zip` file to your local.
 
 2. **Open Chrome Extensions Page**
    - Open Google Chrome.
