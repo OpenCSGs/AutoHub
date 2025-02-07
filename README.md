@@ -35,9 +35,8 @@ If you prefer to install the local package or encounter issues with the Chrome W
 1. **Download the Plugin Package**
    - To obtain the latest version of the installation package, visit the [AutoHub GitHub latest release page](https://github.com/OpenCSGs/AutoHub/releases/latest) and download the `autohub-*.zip` file to your local.
 
-2. **Open Chrome Extensions Page**
-   - Open Google Chrome.
-   - Go to `chrome://extensions/` by typing this URL into the address bar and pressing Enter.
+2. **Open Chrome Extensions Page**  
+   - Open Google Chrome browser and go to the [Chrome Extensions](chrome://extensions/) `chrome://extensions/` page.
 
 3. **Enable Developer Mode**
    - Toggle the "Developer mode" switch in the top-right corner of the extensions page.
