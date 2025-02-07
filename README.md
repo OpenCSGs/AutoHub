@@ -55,3 +55,20 @@ If you prefer to install the local package or encounter issues with the Chrome W
 - **Github Issues**: If you encounter any issues or have questions, you can post them on the [AutoHub GitHub Issues page](https://github.com/OpenCSGs/AutoHub/issues). This is a great place to get help from the community and the development team.
 
 By following these steps, you should be able to install and start using AutoHub to enhance your web browsing experience. If you have any further questions or need additional assistance, feel free to reach out through the provided channels.
+
+### **Support WebSites**
+#### Supported AI Platforms
+| **功能/平台**         | **opencsg**     | **modelscope**      | **huggingface**     |
+|----------------------|------------------|--------------------|----------------------|
+| Query Models         | ✅              | ✅                 | ✅                  |
+| Download Models      | ✅              | ✅                 | ✅                  |
+| Download Datasets    | ❌              | ✅                 | ✅                  |
+| Create Repositories  | ✅              | ✅                 | ✅                  |
+| Query Documentation  | ✅              | ✅                 | ✅                  |
+| Create Repositories  | ✅              | ✅                 | ✅                  |
+
+#### **Additional  Websites**
+| **Website**          | **Workflow**              |
+|----------------------|-----------------------------|
+| baidu.com            | Search for information.     |
+| github.com           | Understand code.            |
