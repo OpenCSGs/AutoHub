@@ -28,6 +28,8 @@ AutoHub offers various methods to assist you. Let's start with the following met
 
 - **Chrome Web Store**: You can install AutoHub directly from the Chrome Web Store. Visit [Chrome Web Store](https://chromewebstore.google.com/detail/opencsg-autohub/nlolpocboolodbjkcakhdnnlhmlgpjgl?hl=zh-CN&utm_source=ext_sidebar) to install the plugin. 
 
+- **Microsoft Edge Add-ons**: You can install AutoHub directly from the Microsoft Edge Add-ons store. Visit [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/opencsg-autohub/jjjbnbpdccppoiioegnjkhejepiameii) to install the plugin.
+
 ### **Local Package Installation (For Chrome and Edge)**
 
 If you prefer to install the local package or encounter issues with the Chrome Web Store, follow these steps:
